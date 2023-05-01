@@ -1,7 +1,8 @@
 ### Hi, welcome to my profile 👋
 
-![Image description here](https://raw.githubusercontent.com/afkir01/afkir01/main/Mustapha-Afkir.png)
+I am a senior software engineer working as a freelancer!
 
+🌍 Website: https://moescodes.com
+🐦 Twitter: https://twitter.com/moescodes
 
-
-
+I am currently working as a senior Angular develop at TKP Pensioen in The Netherlands
