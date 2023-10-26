@@ -5,4 +5,4 @@ I am a senior software engineer working as a freelancer!
 🌍 Website: https://moescodes.com
 🐦 Twitter: https://twitter.com/moescodes
 
-I am currently working as a senior Angular develop at TKP Pensioen in The Netherlands
+I am currently working as a senior Angular developer
